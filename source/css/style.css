@@ -1,0 +1,97 @@
+.page-title {
+    text-align:center;
+    padding: 2em 0 2em 0;
+}
+.title {
+    color:black;
+    text-decoration:none;
+    font-size : 4em;
+}
+.login{
+    color:gray;
+    text-decoration:none;
+    font-size: 0.9em;
+    padding : 0.3em 1em 0 0;
+    float:right;
+}
+
+.page-footer{
+    text-align:center;
+    background-color : white;
+    color : black;
+    text-decoration:none;
+    padding : 1.5em 0 1.5em 0.8em;
+    font-size : 0.7em;
+    
+}
+
+.ads-kakao-right {
+    position:absolute; 
+    right:4em; 
+    top: 5em;
+}
+
+.alink {
+    color : #ABBDFF;
+    text-decoration:none;
+}
+
+.card {
+    margin : 2em 0 2em 0;
+}
+
+.logo {
+    width:10%;
+}
+
+@media(max-width:1600px) {
+    .page-title {
+        text-align:center;
+        padding: 2em 0 2em 0;
+    }
+    .title {
+        color:black;
+        text-decoration:none;
+        font-size : 4em;
+    }
+    .login{
+        color:gray;
+        text-decoration:none;
+        font-size: 0.9em;
+        padding : 0.3em 1em 0 0;
+        float:right;
+    }
+
+    .page-footer{
+        text-align:center;
+        background-color : white;
+        color : black;
+        text-decoration:none;
+        padding : 1.5em 0 1.5em 0.8em;
+        font-size : 0.7em;
+    
+    }
+
+    .alink {
+        color : #ABBDFF;
+        text-decoration:none;
+    }
+
+    .card {
+        margin : 2em 0 2em 0;
+    }
+
+    .logo {
+        width:10%;
+    }
+    
+    .ads-kakao-right {
+        display:none;
+        position:absolute; 
+        right:4em; 
+        top: 5em;
+    }
+}
+
+
+
